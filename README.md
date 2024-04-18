@@ -60,7 +60,7 @@ The on-demand [house cleaning service](https://sangvish.com/uber-for-house-clean
 
 Create a house cleaning schedule app in [sangvish](https://sangvish.com/). It provides one year of free technical assistance and tailored to your specific company requirements. Please contact us for additional information about the house cleaning service app, as well as to view our live demo. 
 
-Check for more details: https://sangvish.com/uber-for-house-cleaning/
+Check our **Live DEMO**: https://sangvish.com/uber-for-house-cleaning/
 
 **Connect With Us!**
 
